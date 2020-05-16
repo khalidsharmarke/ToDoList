@@ -1,0 +1,11 @@
+the purpose of this document is to outline how the API will interact with the DB
+as well as how requests to it will be handled.
+
+all requests will verify user.
+
+API to Client:
+	serves JSON
+	
+	
+	
+
